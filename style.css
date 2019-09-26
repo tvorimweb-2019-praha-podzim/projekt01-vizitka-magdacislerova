@@ -1,0 +1,71 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  background-color: rgb(224, 244, 247);
+  color: rgb(31, 29, 29);
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+header{
+  background-color: rgb(188, 238, 238);
+  padding: 50px 15%;
+  }
+
+.hlavicka{
+  background-image:url(Mt_Wellington.JPG);
+  padding: 150px 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+}
+
+h1{
+  font-size: 90px;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  color: white;
+  margin: 0;
+  }
+
+h2{
+  font-size: 60px;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  margin-top: 0;
+  }
+
+.foto-Magda {
+  max-width: 30%;
+  height: auto;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 10px;
+  }
+
+section{
+  padding: 40px 10%;
+  overflow: auto;
+  }
+
+a{
+  font-style: italic;
+  color: teal;
+}
+
+.kontakt{
+  background-color: rgb(147, 227, 230);
+  text-align: center;
+  }
+
+.kontakt li{
+  display: inline-block;
+  padding: 20px 20px;
+  }
+
+.paticka{
+  text-align: center;
+  color: rgb(59, 58, 58);
+  padding: 0px;
+  }
