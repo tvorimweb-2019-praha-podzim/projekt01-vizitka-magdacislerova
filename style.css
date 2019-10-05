@@ -49,7 +49,7 @@ section{
   overflow: auto;
   }
 
-a{
+.kontakt a{
   font-style: italic;
   color: teal;
 }
@@ -69,3 +69,33 @@ a{
   color: rgb(59, 58, 58);
   padding: 0px;
   }
+
+.bold {
+  font-weight: bold;
+}
+
+.menu{
+  font-family: 'Nunito', sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  background-color: rgb(82, 55, 25);
+  padding: 0;
+  margin: 0;
+  text-align: center;
+ }
+
+.menu li{
+  display: inline-block;
+}
+
+.menu a{
+  color: whitesmoke;
+  padding: 20px 50px;
+  text-decoration: none;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active{
+  background-color: #756158;
+}
